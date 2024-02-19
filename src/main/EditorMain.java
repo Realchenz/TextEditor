@@ -1,5 +1,16 @@
 package main;
 
+/**
+ * This class represents the main method for the text editor. You can run this.
+ * Known Bugs: None
+ *
+ * @author Zhenxu Chen
+ * @email  zhenxuchen@brandeis.edu
+ * @date Feb 19, 2024
+ * <p>
+ * COSI 21A PA1
+ */
+
 public class EditorMain {
 
 	public static void main(String[] args) {
